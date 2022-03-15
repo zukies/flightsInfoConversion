@@ -7,4 +7,4 @@ Arrival from BRU to FAO (11h45)
 🔴 Delayed Arrival from HEL to FAO (12h05)
 Departure from FAO to LIS (12h30)
 
-Copy/paste (a) into the text box on the HTML file and click the command button next to it (small white box), the results will be logged
+Copy/paste (a) into the text box on the HTML file and click the command button next to it (small white box), the results that will look like (b) will be logged
