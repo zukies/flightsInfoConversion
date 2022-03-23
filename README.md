@@ -1,4 +1,4 @@
-Make a) strings look like b) strings
+Make a) strings look like b) strings, by copying string (a) and pasting it into the textbox in the html file, then clicking the button (right of text box) the copied string will look like (b)
 
 a)
 
