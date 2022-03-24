@@ -11,3 +11,4 @@ Arrival from BRU to FAO (11h45)
 Departure from FAO to LIS (12h30)
 
 Copy/paste (a) into the text box on the HTML file and click the command button next to it (small white box), the results that will look like (b) will be logged
+NB: There is a 2nd lot of code that is at the bottom of the .js file (from line52...down) which...if you delete all code above line 52 works exactly the same, this code yields exactly the same result as the first lot of code. So comment out all lines above line 52 and uncomment only the comments that have 2 forward slashes in the beginning from line 52 down
