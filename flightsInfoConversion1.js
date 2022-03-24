@@ -1,4 +1,5 @@
 // This is my second try after looking at lecturers answer to this challenge
+// and after looking at the answer I coded it myself
 
 document.body.append(document.createElement("textarea"));
 document.body.append(document.createElement("button"));
